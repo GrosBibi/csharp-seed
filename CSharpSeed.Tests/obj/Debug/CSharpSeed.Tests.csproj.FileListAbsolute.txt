@@ -1,0 +1,10 @@
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\CSharpSeed.Tests.dll
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\CSharpSeed.Tests.pdb
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\nunit.framework.dll
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\nunit.mocks.dll
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\nunit.framework.xml
+C:\workspace\CSharpSeed\CSharpSeed.Tests\obj\Debug\CSharpSeed.Tests.csprojResolveAssemblyReference.cache
+C:\workspace\CSharpSeed\CSharpSeed.Tests\obj\Debug\CSharpSeed.Tests.dll
+C:\workspace\CSharpSeed\CSharpSeed.Tests\obj\Debug\CSharpSeed.Tests.pdb
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\CSharpSeed.dll
+C:\workspace\CSharpSeed\CSharpSeed.Tests\bin\Debug\CSharpSeed.pdb

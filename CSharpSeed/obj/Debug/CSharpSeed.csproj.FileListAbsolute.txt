@@ -1,0 +1,5 @@
+C:\workspace\CSharpSeed\CSharpSeed\bin\Debug\CSharpSeed.dll
+C:\workspace\CSharpSeed\CSharpSeed\bin\Debug\CSharpSeed.pdb
+C:\workspace\CSharpSeed\CSharpSeed\obj\Debug\CSharpSeed.csprojResolveAssemblyReference.cache
+C:\workspace\CSharpSeed\CSharpSeed\obj\Debug\CSharpSeed.dll
+C:\workspace\CSharpSeed\CSharpSeed\obj\Debug\CSharpSeed.pdb
